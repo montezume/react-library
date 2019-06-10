@@ -1,0 +1,20 @@
+{
+  "name": "@react-library/starter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "scripts build index.js dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "scripts": "^0.1.0"
+  },
+  "devDependencies": {
+    "@react-library/scripts": "^0.0.0"
+  }
+}

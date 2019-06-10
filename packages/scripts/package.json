@@ -1,0 +1,40 @@
+{
+  "name": "@react-library/scripts",
+  "version": "0.0.0",
+  "description": "Scripts for building react libraries",
+  "bugs": "https://github.com/montezume/react-library/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/montezume/react-library.git"
+  },
+  "keywords": [
+    "javascript",
+    "frontend",
+    "react",
+    "toolkit"
+  ],
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "bin": {
+    "scripts": "./bin/scripts.js"
+  },
+  "dependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/preset-env": "7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "mri": "1.1.4",
+    "react-dev-utils": "^9.0.1",
+    "read-pkg-up": "^6.0.0",
+    "rollup": "1.14.6",
+    "rollup-plugin-babel": "4.3.2",
+    "rollup-plugin-cleanup": "3.1.1",
+    "rollup-plugin-json": "4.0.0"
+  }
+}
