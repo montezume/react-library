@@ -30,7 +30,7 @@
     "@babel/preset-env": "7.4.5",
     "@babel/preset-react": "^7.0.0",
     "mri": "1.1.4",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "read-pkg-up": "^6.0.0",
     "rollup": "1.14.6",
     "rollup-plugin-babel": "4.3.2",
